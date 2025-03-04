@@ -1,0 +1,6 @@
+# VSCode cache
+.vscode/
+__pycache__/
+
+# Dataset files
+data/
